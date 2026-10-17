@@ -1,3 +1,9 @@
-Organizador de Arquivos is a Python program that extracts files from a .zip archive and automatically organizes them into folders based on their file extensions. It also records the operations performed in a .log file, including the date, time, filename, and destination of each file. This makes it easier to organize and track processed files.
+# Organizador de Arquivos | File Organizer
 
-O Organizador de Arquivos é um programa desenvolvido em Python que extrai arquivos de um arquivo .zip e os organiza automaticamente em pastas de acordo com suas extensões. Além disso, registra as operações realizadas em um arquivo .log, incluindo a data, o horário, o nome de cada arquivo e seu destino. Isso facilita a organização e o acompanhamento dos arquivos processados.
+## English
+
+File Organizer is a Python program that extracts files from a `.zip` archive and automatically organizes them into folders based on their file extensions. It also logs each operation in a `.log` file, including the date, time, filename, and destination.
+
+## Português
+
+O Organizador de Arquivos é um programa desenvolvido em Python que extrai arquivos de um arquivo `.zip` e os organiza automaticamente em pastas de acordo com suas extensões. Também registra cada operação em um arquivo `.log`, incluindo a data, o horário, o nome do arquivo e seu destino.
